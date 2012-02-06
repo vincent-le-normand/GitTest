@@ -21,12 +21,12 @@
 		BF14412114E027BD00CBF1FC /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		BF14412214E027BD00CBF1FC /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		BF14412314E027BD00CBF1FC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		BF14412614E027BD00CBF1FC /* GitTest-Info.plist */ = {isa = PBXFileReference; path = "GitTest-Info.plist"; sourceTree = "<group>"; };
+		BF14412614E027BD00CBF1FC /* GitTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitTest-Info.plist"; sourceTree = "<group>"; };
 		BF14412814E027BD00CBF1FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BF14412A14E027BD00CBF1FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BF14412C14E027BD00CBF1FC /* GitTest-Prefix.pch */ = {isa = PBXFileReference; path = "GitTest-Prefix.pch"; sourceTree = "<group>"; };
+		BF14412C14E027BD00CBF1FC /* GitTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GitTest-Prefix.pch"; sourceTree = "<group>"; };
 		BF14412E14E027BD00CBF1FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		BF14413014E027BD00CBF1FC /* PBAppDelegate.h */ = {isa = PBXFileReference; path = PBAppDelegate.h; sourceTree = "<group>"; };
+		BF14413014E027BD00CBF1FC /* PBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PBAppDelegate.h; sourceTree = "<group>"; };
 		BF14413114E027BD00CBF1FC /* PBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PBAppDelegate.m; sourceTree = "<group>"; };
 		BF14413414E027BD00CBF1FC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
