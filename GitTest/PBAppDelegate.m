@@ -19,10 +19,6 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // Insert code here to initialize your application
-    
-    // Commit 1
-    // Commit 2
 }
 
 @end
